@@ -6,7 +6,7 @@
 - `python3 myp.py` [`-h`] [`-t json`] [`-t text`] [`-o path`]
 
 Options:
-- `-h`       : this help
-- `-t json`  : set file type to json
-- `-t text`  : set file type to text
-- `-o path`  : set path to save file
+- `-h`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: this help
+- `-t json`&nbsp;&nbsp;: set file type to json
+- `-t text`&nbsp;&nbsp;: set file type to text
+- `-o path`&nbsp;&nbsp;: set path to save file
